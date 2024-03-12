@@ -181,8 +181,7 @@ insert into tb_Classe(Classe,Grade,Major_ID) values(4,2014,'13');
 insert into tb_Classe(Classe,Grade,Major_ID) values(5,2014,'13');
 insert into tb_Classe(Classe,Grade,Major_ID) values(6,2014,'13');
 insert into tb_Classe(Classe,Grade,Major_ID) values(7,2014,'13');
-insert into tb_Classe(Classe,Grade,Major_ID) values(8,2014,'13');
-insert into tb_Classe(Classe,Grade,Major_ID) values(9,2014,'13');
+
 
 
 
